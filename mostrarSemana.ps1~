@@ -1,0 +1,2 @@
+$W = get-date -UFormat %V
+Write-Output "Número da Semana: " + $W
